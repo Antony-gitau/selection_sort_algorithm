@@ -1,6 +1,6 @@
 # selection_sort_algorithm
 
-This code is a implementing selection sorting in C++.
+This code is implementing a selection sort in C++.
 
 `pseudocode`
 - created a selectionsort function, pass two variable ( array, array size)
